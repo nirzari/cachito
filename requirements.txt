@@ -220,7 +220,7 @@ wcwidth==0.2.5 \
     # via prompt-toolkit
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==57.1.0 \
-    --hash=sha256:cfca9c97e7eebbc8abe18d5e5e962a08dcad55bb63afddd82d681de4d22a597b \
-    --hash=sha256:ddae4c1b9220daf1e32ba9d4e3714df6019c5b583755559be84ff8199f7e1fe3
+setuptools==60.0.0 \
+    --hash=sha256:5ec2bbb534ed160b261acbbdd1b463eb3cf52a8d223d96a8ab9981f63798e85c \
+    --hash=sha256:75fd345a47ce3d79595b27bf57e6f49c2ca7904f3c7ce75f8a87012046c86b0b
     # via -r requirements.in
